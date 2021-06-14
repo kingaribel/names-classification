@@ -1,0 +1,27 @@
+{
+  "name": "names-classification",
+  "version": "1.0.0",
+  "description": "This package has a set of names with their classification at the gender level, that is, if they are male or female names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingaribel/names-classification.git"
+  },
+  "keywords": [
+    "names",
+    "classification",
+    "gender"
+  ],
+  "author": "Evandro Brandão <evandroaribel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingaribel/names-classification/issues"
+  },
+  "homepage": "https://github.com/kingaribel/names-classification#readme",
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  }
+}
