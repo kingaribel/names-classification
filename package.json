@@ -1,6 +1,6 @@
 {
   "name": "names-classification",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This package has a set of names with their classification at the gender level, that is, if they are male or female names.",
   "main": "index.js",
   "scripts": {
