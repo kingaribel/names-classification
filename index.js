@@ -1,3 +1,7 @@
+const namesClassify = require('./lib/name-classify')
+
 module.exports = (name) => {
-    return `Hello, ${name}!`
+    return namesClassify.getGender(name).then((gender) => {
+        return gender
+    });
 };
